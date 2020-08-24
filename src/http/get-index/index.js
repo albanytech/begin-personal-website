@@ -34,7 +34,7 @@ exports.handler = async function Index () {
     *service: 'Unsplash',
     *credit: 'https://unsplash.com/@von_co',
          */
-    image: staticAssetsHelper('background2.jpg')
+    image: staticAssetsHelper('background3.jpg')
     // or link to an external image URL such as ↓
     // image: 'https://images.unsplash.com/photo-1506535772317-9fdb71c959c6'
   })
