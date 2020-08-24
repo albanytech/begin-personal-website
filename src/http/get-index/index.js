@@ -30,7 +30,9 @@ exports.handler = async function Index () {
     /**
      * Layout
 
-    * photographer: 'Ivana Cajina',
+    */
+    photographer: 'Tom Coleman',
+    /**
     *service: 'Unsplash',
     *credit: 'https://unsplash.com/@von_co',
          */
