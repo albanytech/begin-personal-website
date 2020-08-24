@@ -19,7 +19,7 @@ exports.handler = async function Index () {
      */
     email: 'tcoleman@hey.com',
     twitter: 'tompcoleman',
-    linkedin: 'Tom Coleman',
+    linkedin: 'tom-c-1370304a',
     
     
     /**
