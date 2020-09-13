@@ -54,7 +54,7 @@ exports.handler = async function http (req) {
           Hello from Node.js!
         </h1>
         <p class="margin-bottom-8">
-          Get started by editing this file at:
+          Get to know us
         </p>
         <code>
           src/http/{your function}/index.js
