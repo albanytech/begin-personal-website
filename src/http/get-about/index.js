@@ -12,7 +12,7 @@ exports.handler = async function http (req) {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Architect</title>
+  <title>Albany Technology Ltd</title>
   <style>
     * {
       margin: 0;
